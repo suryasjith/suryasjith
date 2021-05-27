@@ -16,13 +16,13 @@ You can click the Preview link to take a look at your changes.
 ## 💼 Skills
 
 
-
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/Code-ETHEREUM-informational?style=flat&logo=ethereum&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=JavaScript&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=f3b745)
-![](https://img.shields.io/badge/Code-Truffle-informational?style=flat&logo=Trufflesuite&logoColor=white&color=f3b745)
+![](https://img.shields.io/badge/Code-Truffle-informational?style=flat&logo=truffle&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=f3b745)
 
