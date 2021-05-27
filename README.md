@@ -4,8 +4,8 @@
 - 👀 I’m interested in development and coding! 
 - 🌱 I’m currently learning ethereum network
 - 💞️ I’m looking to collaborate on blockchain technology
-- 📫 How to reach me ?
-      [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/surya-is-alive-here)
+- 📫 How to reach me ? <br>
+    <br>   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/surya-is-alive-here)
 
 <!---
 suryasjith/suryasjith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
