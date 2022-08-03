@@ -2,7 +2,7 @@
 
 - 👋  I’m @suryasjith
 - 👀 I’m interested and skilled in development and coding! 
-- 🌱 I’m currently pusrsuin Master's in FinTech !
+- 🌱 I’m currently pusrsuing Master's in FinTech !
 - 💞️ I’m looking to collaborate on blockchain technology
 - 📫 How to reach me ? <br>
     <br>   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Click_here_to_see_my_profile_!-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/surya-is-alive-here)
